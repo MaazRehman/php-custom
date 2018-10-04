@@ -2,6 +2,6 @@
 
 
 
-echo '1 hello world maaz';
+echo '12 hello world maaz';
 
  ?>
