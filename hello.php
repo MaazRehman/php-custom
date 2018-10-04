@@ -2,6 +2,6 @@
 
 
 
-echo 'hello someone';
+echo 'hello someone cool';
 
  ?>
