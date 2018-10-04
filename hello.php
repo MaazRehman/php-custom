@@ -2,6 +2,6 @@
 
 
 
-echo 'hello smarty 1';
+echo 'hello hammad 2';
 
  ?>
